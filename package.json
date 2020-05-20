@@ -1,0 +1,19 @@
+{
+  "name": "pagina_pintores",
+  "version": "1.0.0",
+  "description": "Pagina web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorge8897/pagina_Pintores.git"
+  },
+  "author": "Jorge Alberto Gonzalez Erives 4E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jorge8897/pagina_Pintores/issues"
+  },
+  "homepage": "https://github.com/Jorge8897/pagina_Pintores#readme"
+}
